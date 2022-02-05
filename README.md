@@ -1,2 +1,2 @@
-# Insta-Dicas-de-Livros
+# App Insta Dicas de Livros
 Perfil de App para dicas de livros.
